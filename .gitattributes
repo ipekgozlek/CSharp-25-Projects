@@ -1,0 +1,7 @@
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.resx linguist-language=C#
+*.xsd linguist-language=XML
+*.xsc linguist-language=XML
+*.xss linguist-language=XML
+*.config linguist-language=XML
